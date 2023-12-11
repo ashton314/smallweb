@@ -7710,6 +7710,7 @@ https://solanorail.blogspot.com/feeds/posts/default
 https://solar.lowtechmagazine.com/posts/index.xml
 https://solarpunks.net/rss
 https://solarpunkstation.com/feed/
+https://solitum.net/index.xml
 https://solnic.codes/posts/index.xml
 https://solomon.io/feed/
 https://solovyov.net/blog.atom
